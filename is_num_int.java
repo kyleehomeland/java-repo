@@ -1,4 +1,3 @@
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class is_num_int {
@@ -9,3 +8,4 @@ public class is_num_int {
         System.out.println(checker.hasNextInt());
     }
 }
+
